@@ -1,3 +1,4 @@
+README.js.txt
 <html>  
 <head>  
 <script type="text/javascript" src="message.js"></script>  
